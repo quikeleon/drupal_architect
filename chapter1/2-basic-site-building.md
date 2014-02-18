@@ -95,7 +95,9 @@ Descripción general: Módulos recomendados para aumentar la accesibilidad y la 
 ##Peformance
 Descripción general: Consideraciones para el mejoramiento del rendimiento de drupal (sitios con alto tráfico y/o con grandes cantiades de contenido).
 * Cache
-* AuthCache
-* redis
-* APC
-* varnish
+* Charge balance
+
+##Security
+* System architech
+* Conections
+* Best practices of coding
